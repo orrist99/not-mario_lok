@@ -1,0 +1,12 @@
+H:\for1\8-bit_lok\8-bit_lok\bin\Debug\8-bit_lok.exe.config
+H:\for1\8-bit_lok\8-bit_lok\bin\Debug\8-bit_lok.exe
+H:\for1\8-bit_lok\8-bit_lok\bin\Debug\8-bit_lok.pdb
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.csprojResolveAssemblyReference.cache
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\_8_bit_lok.Form1.resources
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\_8_bit_lok.Properties.Resources.resources
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.csproj.GenerateResource.Cache
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.exe
+H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.pdb
+C:\Users\2601992269\Desktop\8-bit_lok\8-bit_lok\bin\Debug\8-bit_lok.exe.config
+C:\Users\2601992269\Desktop\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.exe
+C:\Users\2601992269\Desktop\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.pdb

@@ -44,7 +44,7 @@ namespace _8_bit_lok
                 if (force == 0)
                 {
                     force = 30;
-                    jump = false;
+                    jump = false; 
                 }
             }
 

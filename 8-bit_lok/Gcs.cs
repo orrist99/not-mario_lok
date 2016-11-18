@@ -9,7 +9,8 @@ namespace _8_bit_lok
 {
     class Gcs
     {
-         
+        public const int can_h = 700;
+        public const int can_w = 1200;
         
         private Gengin ge;
 

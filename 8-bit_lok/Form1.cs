@@ -17,7 +17,7 @@ namespace _8_bit_lok
             InitializeComponent();
         }
 
-
+         
         
         bool jump;
         bool left;

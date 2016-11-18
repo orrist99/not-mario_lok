@@ -39,6 +39,7 @@
             this.canv1.Size = new System.Drawing.Size(1200, 700);
             this.canv1.TabIndex = 0;
             this.canv1.Paint += new System.Windows.Forms.PaintEventHandler(this.canv1_Paint);
+            this.canv1.Leave += new System.EventHandler(this.canv1_Leave);
             // 
             // Form1
             // 
@@ -51,6 +52,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Side";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
@@ -62,3 +64,4 @@
     }
 }
 
+ 

@@ -52,6 +52,7 @@
     </Compile>
     <Compile Include="Gcs.cs" />
     <Compile Include="Gengin.cs" />
+    <Compile Include="Level1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -85,6 +86,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\imgres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ground-big.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

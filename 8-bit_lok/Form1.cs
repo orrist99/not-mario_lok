@@ -21,7 +21,9 @@ namespace _8_bit_lok
 
         private void canv1_Paint(object sender, PaintEventArgs e)
         {
+            game.loadlevel();
             Graphics g = canv1.CreateGraphics();
+           // MessageBox.Show("KONNI");
             game.startg(g);
         }
 

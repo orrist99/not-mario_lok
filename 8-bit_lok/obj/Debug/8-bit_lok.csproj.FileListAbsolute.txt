@@ -7,3 +7,12 @@ H:\for1\8-bit_lok\8-bit_lok\obj\Debug\_8_bit_lok.Properties.Resources.resources
 H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.csproj.GenerateResource.Cache
 H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.exe
 H:\for1\8-bit_lok\8-bit_lok\obj\Debug\8-bit_lok.pdb
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\bin\Debug\8-bit_lok.exe.config
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\8-bit_lok.exe
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\8-bit_lok.pdb
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\bin\Debug\8-bit_lok.exe
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\bin\Debug\8-bit_lok.pdb
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\8-bit_lok.csprojResolveAssemblyReference.cache
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\_8_bit_lok.Form1.resources
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\_8_bit_lok.Properties.Resources.resources
+C:\Users\OrriSteinn\Desktop\not-mario\not-mario_lok\8-bit_lok\obj\Debug\8-bit_lok.csproj.GenerateResource.Cache

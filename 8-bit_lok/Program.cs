@@ -18,5 +18,6 @@ namespace _8_bit_lok
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
     }
 }

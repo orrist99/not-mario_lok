@@ -73,10 +73,12 @@ namespace _8_bit_lok
                                  break;
                          }
 
+
 	
                      }
                  }
 
+                frameGraphics.DrawImage(mario_no, 50, 450);
            
            drawh.DrawImage(frame, 0, 0);
                 //test fps
